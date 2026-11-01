@@ -1,0 +1,19 @@
+.DS_Store
+__MACOSX/
+/assets/screenshots.zip
+.env*
+*.app/
+node_modules/
+dist/
+*.sqlite*
+*.db
+*.log
+*.json
+!package.json
+
+# Local-only materials; retain them locally and exclude from the showcase.
+/assets/videos/
+/assets/COVER-BRIEF.md
+/assets/screenshots/README.md
+/docs/PUBLIC-REVIEW.md
+/VIDEO-STORYBOARD.md
